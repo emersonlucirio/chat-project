@@ -1,6 +1,6 @@
 # Chat Localhost.
 
-* Este é um projeto de chat simples desenvolvido para comunicação local, utilizando tecnologias web modernas. Ele permite que os usuários troquem mensagens em tempo real em um ambiente localhost.
+* Este é um projeto de chat simples desenvolvido durante intensivão [Hashtag Programação](https://www.hashtagtreinamentos.com/cursos-hashtag-programacao?origemurl=136986055125&gad_source=1&gclid=CjwKCAiA8YyuBhBSEiwA5R3-EztPzwQUtaoQPqi2UaiHpbNMHjTkEBaLYyKmXT8M8rS2ltTzmdGYIhoCnDYQAvD_BwE) para comunicação local, utilizando tecnologias web modernas. Ele permite que os usuários troquem mensagens em tempo real em um ambiente localhost.
 
 ## Tecnologias Utilizadas
 * **HTML5:** Utilizado para estruturar a interface do usuário do chat.
